@@ -102,3 +102,28 @@ else:
  if __name__ == "__main__": 
 
  main()
+/* OUTPUT:
+
+Encryption
+
+Enter 'e' for encryption or 'd' for
+
+decryption: E
+
+Enter the plain text: Hello, World!
+
+Enter the shift value: 3
+
+Encrypted text: Khoor, Zruog!
+
+Decryption
+
+Enter 'e' for encryption or 'd' for
+
+decryption: D
+
+Enter the cipher text: Khoor, Zruog!
+
+Enter the shift value: 3
+
+Decrypted text: Hello, World! */
